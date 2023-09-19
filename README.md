@@ -18,7 +18,7 @@ Input all of your perishables and their expiration dates into your Fridge. You c
 How we Built it
 We used mainly React-native for the front and back end as well as postgreSQL for the database. We began by creating 3 separate one page documents to get the style and format of all our pages; these pages were the default Home screen to open your Fridge, the Fridge screen which holds all items and expiry dates you have inputted, and the Add screen where you can submit another food item while still being able to see all items you currently have.
 
-Once we had each individual page functional and structured, we combined them into one javascript file, each under a different class. This was so we could link the pages with navigation. Finally, we connected all three pages with the database. The trickiest parts of the build was the installation of everything revolving around the software of react-native. The navigation and notification systems in particular are not created at the developers expense (@Paul).
+Once we had each individual page functional and structured, we combined them into one javascript file, each under a different class. This was so we could link the pages with navigation. Finally, we connected all three pages with the database. The trickiest parts of the build was the installation of everything revolving around the software of react-native. The navigation and notification systems in particular are not created at the developers expense.
 
 Our Main Goal
 Our main goal for this event was to get something that could actually work as an app. We are proud to say that we achieved this! Our app adds, deletes, and displays your list of food and expiration dates, so you drink the milk a week early instead of a week late.
