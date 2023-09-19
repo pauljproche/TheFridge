@@ -1,10 +1,13 @@
 # TheFridge
 ***NOTES***
 -The file App_final_deal.js is the file to use to run the code.
+
 -To run postgres server: Download PostgreSQL. To instantiate the database tables:
     sudo -i -u postgres psql TheFridge < PostgreSQL_Scripts/fridge_database_init.sql
+    
  - To initialize values in the database:
     sudo -i -u postgres psql TheFridge < PostgreSQL_Scripts/populate_fridge.sql
+   
 - To run the NodeJS server, download NodeJS and NPM. 
     cd NodeJS_Server; node app.js
 
