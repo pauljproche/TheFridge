@@ -1,5 +1,6 @@
 # TheFridge
-Link to the original repository: 
+Link to the original repository we worked on at PolyHack 2019: 
+https://github.com/k8amanda/TheFridge
 
 The file App_final_deal.js is the file to use to run the code.
 
